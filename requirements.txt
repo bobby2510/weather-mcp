@@ -1,0 +1,6 @@
+fastmcp
+httpx
+uvicorn
+fpdf2
+python-docx
+Pillow
